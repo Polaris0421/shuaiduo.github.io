@@ -22,7 +22,7 @@ repository               : "Polaris0421/shuaiduo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "profile.png"
   name             : "Shuai, Duo"
   pronouns         : "he/him"
   bio              : "All knowledge is, in the final analysis, history."
